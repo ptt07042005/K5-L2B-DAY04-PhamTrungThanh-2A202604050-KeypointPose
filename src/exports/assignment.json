@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604050",
+ "ten": "PhamTrungThanh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "thanhpham.tt74",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000137767.jpg",
+  "000000205650.jpg",
+  "000000261732.jpg",
+  "000000308257.jpg",
+  "000000390585.jpg",
+  "000000157271.jpg",
+  "000000461389.jpg",
+  "000000469061.jpg",
+  "000000210604.jpg",
+  "000000351176.jpg",
+  "000000167027.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_147624.jpg",
+  "face_421231.jpg",
+  "face_496353.jpg",
+  "face_105668.jpg",
+  "face_449454.jpg",
+  "face_81239.jpg",
+  "face_146049.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 6,
+   "task_name": "persons-PhamTrungThanh"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 7,
+   "task_name": "faces-PhamTrungThanh"
+  }
+ }
+}
